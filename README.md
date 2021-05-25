@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-SPILLANE
 - 👀 I’m interested in ... Epidemiology and Bioinformatics 
 - 🌱 I’m currently learning ... R & Python laguages, data visualization tools, advanced statistics 
-- 💞️ I’m looking to collaborate on ...projects to advance my skills in those above areas and eventually philantropic volunteer opportunities to use these skills to help other
+- 💞️ I’m looking to collaborate on ...projects to advance my skills in those above areas and eventually volunteer opportunities with philanthropic organizations to use these skills to contribute to missions focused on global public health
 - 📫 How to reach me ... linkedin.com/in/melaniespillane23 | mspillane2349@gmail.com 
 
 <!---
